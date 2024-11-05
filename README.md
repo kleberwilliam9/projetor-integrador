@@ -39,11 +39,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
+![Capturar](https://github.com/user-attachments/assets/6042cf8c-e2f6-4d15-a0c3-930dfbdc5414)
 
 # Objetivo do Projeto
 >Descrever aqui os objetivos desse projeto
