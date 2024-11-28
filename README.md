@@ -42,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 ![Capturar](https://github.com/user-attachments/assets/6042cf8c-e2f6-4d15-a0c3-930dfbdc5414)
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+O objetivo deste trabalho é analisar o panorama atual da demanda e venda de celulares no Brasil, explorando os fatores que influenciam o comportamento do consumidor, a evolução do mercado e as tendências emergentes nesse setor, além disso, a segmentação de mercado, com destaque para as diferentes faixas de preços, contribuindo para a diversificação da demanda nacional, sendo que consumidores de diversas classes sociais buscam smartphones que atendam às suas necessidades específicas e economicas.
 
 # Funcionalidades e Demonstrações das Sprints
 
