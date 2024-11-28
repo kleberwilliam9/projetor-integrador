@@ -48,18 +48,19 @@ O objetivo deste trabalho é analisar o panorama atual da demanda e venda de cel
 
 ## Sprint 1
 
-[APRESENTAÇÃO SPRINT 01.pptx](https://github.com/user-attachments/files/17639384/APRESENTACAO.SPRINT.01.pptx)
+![Captura de tela 2024-11-28 180500](https://github.com/user-attachments/assets/c80988eb-658e-4195-80b4-ccf76b6d3251)
+
 
 
 ## Sprint 2
 
-[APRESENTAÇÃO SPRINT 02.pptx](https://github.com/user-attachments/files/17639395/APRESENTACAO.SPRINT.02.pptx)
+![Captura de tela 2024-11-28 180640](https://github.com/user-attachments/assets/1a7a1203-05a1-4378-8ca6-6eda4fa04ace)
+
 
 
 ## Sprint 3
->Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+
 
 
 ## Sprint 4
@@ -77,15 +78,28 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
-
+* Sprint 1
+   * Analise swot
+* Sprint 2
+   * Plano de negocios- ERP
+ *  sprint 3
+    * Fluxo de demanda
+ *  Sprint 4
+    * Canva 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+ * SWOT
+ * Excel
+ * Power Point 
+ * GitHub
+ * Scrum
+
 
 # Cronograma das Sprints
+![Captura de tela 2024-11-28 185800 png tl1](https://github.com/user-attachments/assets/c64b515a-b6b0-4920-954e-b8f9aeafe284)
+
+![Captura de tela 2024-11-28 185639 png tl2](https://github.com/user-attachments/assets/8efc4764-4284-4479-a1d3-0b61bdd9cb4e)
+
+
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
@@ -108,25 +122,30 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![Captura de tela 2024-11-28 185800 png tl1 png crg 1](https://github.com/user-attachments/assets/1aa1c3ba-6f52-459a-aef6-02ae6763523a)
+
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![Captura de tela 2024-11-28 185800 png tl1 png crg 2](https://github.com/user-attachments/assets/72cd8486-1d7d-42fc-8ef8-5626f5d833a3)
+
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![Captura de tela 2024-11-28 185639 png tl2 png crg 3](https://github.com/user-attachments/assets/09a15364-054d-4dd9-ac87-2d02e6bb4d3e)
+
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![Captura de tela 2024-11-28 185639 png tl2 png crg 4](https://github.com/user-attachments/assets/dc37cddc-16a1-4b6f-ab6f-5971b946d8b4)
+
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+![Captura de tela 2024-11-28 190605 png desen](https://github.com/user-attachments/assets/a2fa89ac-f94c-438d-9a18-4152c1b60715)
+
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
+![Captura de tela 2024-11-28 191121 png 123](https://github.com/user-attachments/assets/92d26ff6-977d-43a1-87af-5ed772f4bded)
+
+
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
