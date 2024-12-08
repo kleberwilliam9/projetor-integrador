@@ -35,7 +35,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green"/>
 </p>
 
 # Equipe
@@ -60,20 +60,12 @@ O objetivo deste trabalho é analisar o panorama atual da demanda e venda de cel
 
 ## Sprint 3
 
+![image](https://github.com/user-attachments/assets/daf97762-9b2c-419f-8187-64945898416b)
 
 
 
 ## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![image](https://github.com/user-attachments/assets/5e3a3799-4fdc-439f-b300-191bb76bcd3d)
 
 
 ## Tecnologias Utilizadas
@@ -108,18 +100,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+![image](https://github.com/user-attachments/assets/efb4fed9-b666-4cbb-987b-145b13e49215)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
 
-## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
 ![Captura de tela 2024-11-28 185800 png tl1 png crg 1](https://github.com/user-attachments/assets/1aa1c3ba-6f52-459a-aef6-02ae6763523a)
